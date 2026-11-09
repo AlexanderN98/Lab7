@@ -12,7 +12,7 @@ public class ArrayMethods {
     private int[] myArray = {7, 8, 8, 3, 4, 9, 8, 7};
 
     /**
-     * Default constructor for ArrayMethods
+     * No-arg constructor for ArrayMethods
      */
     public ArrayMethods() {
     }
